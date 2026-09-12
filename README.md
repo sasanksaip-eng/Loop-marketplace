@@ -2,7 +2,9 @@ Loop Marketplace:
 
 A student-to-student campus marketplace designed to make buying and selling
 items within a college community easier.
-- do visit the website 
+
+- do visit the website https://eclectic-dieffenbachia-01162b.netlify.app/
+  
  Features:
 
 - Student-to-student marketplace
